@@ -1,6 +1,6 @@
 {
-  "name": "Log",
-  "description": "Log transform the given data",
+  "name": "Sqrt",
+  "description": "Square root of the given data",
   "tags": ["data wrangling", "data transformation", "transform"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/sqrt_operator"]
