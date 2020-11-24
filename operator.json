@@ -1,0 +1,9 @@
+{
+  "name": "Log",
+  "description": "Log transform the given data",
+  "tags": ["data wrangling", "data transformation", "transform"],
+  "authors": ["tercen"],
+  "urls": ["https://github.com/tercen/sqrt_operator"]
+}
+
+
